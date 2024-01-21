@@ -1,0 +1,12 @@
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\bin\Release\net6.0\IAM.Domain.deps.json
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\bin\Release\net6.0\IAM.Domain.dll
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\bin\Release\net6.0\IAM.Domain.pdb
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\obj\Release\net6.0\IAM.Domain.csproj.AssemblyReference.cache
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\obj\Release\net6.0\IAM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\obj\Release\net6.0\IAM.Domain.AssemblyInfoInputs.cache
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\obj\Release\net6.0\IAM.Domain.AssemblyInfo.cs
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\obj\Release\net6.0\IAM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\obj\Release\net6.0\IAM.Domain.dll
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\obj\Release\net6.0\refint\IAM.Domain.dll
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\obj\Release\net6.0\IAM.Domain.pdb
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Domain\obj\Release\net6.0\ref\IAM.Domain.dll

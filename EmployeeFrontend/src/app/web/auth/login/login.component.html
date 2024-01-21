@@ -1,0 +1,37 @@
+<div class="login-container">
+  <div class="login-container__background">
+    <img
+      src="https://cdni.iconscout.com/illustration/premium/thumb/employees-celebrating-success-5170466-4328255.png?f=webp"
+      alt="img">
+  </div>
+  <div class="login-container__form mat-elevation-z8">
+    <div class="flex justify-center px-5 pt-5">
+      <div class="flex flex-col items-center text-center">
+        <h3 class="mat-headline-5">Welcome To System</h3>
+        <h3 class="mat-headline-6">Please Login</h3>
+      </div>
+    </div>
+
+    <div class="flex flex-col items-center justify-center mt-10" [formGroup]="loginForm">
+      <mat-form-field class="w-11/12" appearance="outline">
+        <mat-label>Email</mat-label>
+        <input matInput placeholder="Email" formControlName="userName">
+        <mat-error>This field is required.</mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="w-11/12" appearance="outline">
+        <mat-label>Password</mat-label>
+        <input type="password" matInput placeholder="Password" formControlName="password">
+        <mat-error>This field is required.</mat-error>
+      </mat-form-field>
+
+      <div class="flex w-11/12 justify-end cursor-pointer">
+        <mat-label class="underline decoration-2" (click)="navigateToRegister()">Create Account?</mat-label>
+      </div>
+
+      <div class="flex w-11/12 justify-center cursor-pointer mt-10">
+        <button class="w-32" mat-stroked-button color="primary" (click)="proceedLogin()">Login</button>
+      </div>
+    </div>
+  </div>
+</div>

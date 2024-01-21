@@ -1,0 +1,27 @@
+@tailwind utilities;
+
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+@import './responsive';
+
+
+html,
+body {
+  height: 100%;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+body {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0 !important;
+}

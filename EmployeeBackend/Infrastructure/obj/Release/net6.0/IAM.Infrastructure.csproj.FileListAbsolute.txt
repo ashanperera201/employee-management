@@ -1,0 +1,17 @@
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\bin\Release\net6.0\IAM.Infrastructure.deps.json
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\bin\Release\net6.0\IAM.Infrastructure.runtimeconfig.json
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\bin\Release\net6.0\IAM.Infrastructure.dll
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\bin\Release\net6.0\IAM.Infrastructure.pdb
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\bin\Release\net6.0\IAM.Domain.dll
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\bin\Release\net6.0\IAM.Domain.pdb
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\IAM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\IAM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\IAM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\IAM.Infrastructure.AssemblyInfo.cs
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\IAM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\IAM.Infrastructure.csproj.CopyComplete
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\IAM.Infrastructure.dll
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\refint\IAM.Infrastructure.dll
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\IAM.Infrastructure.pdb
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\IAM.Infrastructure.genruntimeconfig.cache
+C:\Users\BLACKBOX\Desktop\my-practicals\test\TSS\Infrastructure\obj\Release\net6.0\ref\IAM.Infrastructure.dll

@@ -1,0 +1,38 @@
+@import '../../../../scss/responsive';
+
+
+.register-container {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: [register-background-starts] 70% [register-background-ends register-form-starts] 30% [register-form-ends];
+  grid-template-rows: 1fr;
+
+
+  &__background {
+    grid-column: register-background-starts / register-background-ends;
+    grid-row: auto;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    img {
+      height: 50%;
+      width: auto;
+    }
+
+    @include respond(tab-port) {
+      display: none !important;
+    }
+  }
+
+  &__form {
+    grid-column: register-form-starts / register-form-ends;
+    grid-row: auto;
+
+    @include respond(tab-port) {
+      grid-column: register-background-starts / register-form-ends;
+    }
+  }
+}

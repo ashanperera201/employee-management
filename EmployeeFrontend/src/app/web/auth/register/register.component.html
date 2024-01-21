@@ -1,0 +1,55 @@
+<div class="register-container">
+  <div class="register-container__background">
+    <img
+      src="https://cdni.iconscout.com/illustration/premium/thumb/employees-celebrating-success-5170466-4328255.png?f=webp"
+      alt="img">
+  </div>
+  <div class="register-container__form mat-elevation-z8">
+    <div class="flex justify-center px-5 pt-5">
+      <div class="flex flex-col items-center text-center">
+        <h3 class="mat-headline-5">Welcome To System</h3>
+        <h3 class="mat-headline-6">Please Register</h3>
+      </div>
+    </div>
+
+    <div class="flex flex-col items-center justify-center mt-10" [formGroup]="registerForm">
+      <mat-form-field class="w-11/12" appearance="outline">
+        <mat-label>First Name</mat-label>
+        <input matInput placeholder="First Name" formControlName="firstName">
+        <mat-error>This field is required.</mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="w-11/12" appearance="outline">
+        <mat-label>Last Name</mat-label>
+        <input matInput placeholder="Last Name" formControlName="lastName">
+        <mat-error>This field is required.</mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="w-11/12" appearance="outline">
+        <mat-label>Email Address</mat-label>
+        <input matInput placeholder="Email Address" formControlName="emailAddress">
+        <mat-error>This field is required.</mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="w-11/12" appearance="outline">
+        <mat-label>Password</mat-label>
+        <input type="password" matInput placeholder="Password" formControlName="password">
+        <mat-error>This field is required.</mat-error>
+      </mat-form-field>
+
+      <mat-form-field class="w-11/12" appearance="outline">
+        <mat-label>Confirm Password</mat-label>
+        <input type="password" matInput placeholder="Password" formControlName="confirmPassword">
+        <mat-error>This field is required.</mat-error>
+      </mat-form-field>
+
+      <div class="flex w-11/12 justify-end cursor-pointer">
+        <mat-label class="underline decoration-2" (click)="navigateToLogin()">Already have an account?</mat-label>
+      </div>
+
+      <div class="flex w-11/12 justify-center cursor-pointer mt-10">
+        <button class="w-48" mat-stroked-button color="primary" [disabled]="registerForm.invalid" (click)="proceedRegistration()">Register</button>
+      </div>
+    </div>
+  </div>
+</div>
